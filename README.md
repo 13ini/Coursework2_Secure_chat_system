@@ -83,8 +83,6 @@ secure-chat-system/
 **BSc (Hons) in Ethical Hacking and Cybersecurity**  
 **Softwarica College**  
 
-## 📜 License
-This project is licensed under the **MIT License** – feel free to modify and improve it!
 
 ## 🌟 Contributions
 Contributions, issues, and feature requests are welcome! Feel free to fork and submit a pull request. 🚀
